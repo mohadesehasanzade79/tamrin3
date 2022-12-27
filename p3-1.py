@@ -1,0 +1,5 @@
+a=input("input number")
+print("\n")
+print("list:",a)
+m=list(dict.fromkeys(a))
+print("m",m)
